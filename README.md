@@ -30,7 +30,7 @@ It is built using the Python3 programming language</p>
 
 ### Installation
 
-> - Clone this repository: `git clone "https://github.com/odoublea/AirBnB_clone.git"`
+> - Clone this repository: `git clone "https://github.com/TitiMogaji/AirBnB_clone.git"`
 > - Access AirBnb directory: `cd AirBnB_clone`
 > - Run hbnb(interactively): `./console` and enter command
 > - Run hbnb(non-interactively): `echo "<command>" | ./console.py`
